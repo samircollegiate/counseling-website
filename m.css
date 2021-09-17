@@ -21,7 +21,7 @@ html{
     width: 100%;
     z-index: 999;
     padding: 30px 0;
-    font-family: 'Ubuntu', sans-serif;
+    font-family: 'Helvetica Neue', sans-serif;
     transition: all 0.3s ease;
 }
 .navbar.sticky{
@@ -387,7 +387,7 @@ section .title::after{
     outline: none;
     padding: 0 15px;
     font-size: 17px;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Helventica Neue', sans-serif;
 }
 .contact .right form .button{
     height: 47px;
