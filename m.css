@@ -40,7 +40,7 @@ html{
 
 }
 .navbar .logo a span{
-    color: firebrick;
+    color: black;
 }
 .navbar.sticky .logo a span{
     color: black;
@@ -59,7 +59,7 @@ html{
     transition: color 0.3s ease;
 }
 .navbar .menu li a:hover{
-    color: firebrick;
+    color: green;
 
 }
 /* home section styling */
