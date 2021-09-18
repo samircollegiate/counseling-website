@@ -21,7 +21,7 @@ html{
     width: 100%;
     z-index: 999;
     padding: 30px 0;
-    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", "Lucida Grande", sans-serif;
     transition: all 0.3s ease;
 }
 .navbar.sticky{
@@ -74,7 +74,7 @@ html{
     height: 100vh;
     color: black;
     min-height: 500px;
-    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", "Lucida Grande", sans-serif;
 }
 .home .max-width{
     margin: auto 0 auto 40px;
@@ -116,7 +116,7 @@ section{
     padding:100px 0;
 }
 .about, .projects, .skills, .experience, .contact{
-    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", "Lucida Grande", sans-serif;
 }
 .about .about-content,
 .projects .project-content, 
@@ -135,7 +135,7 @@ section .title{
     font-weight: 500;
     margin-bottom: 60px;
     padding-bottom: 20px;
-    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", "Lucida Grande", sans-serif;
 }
 section .title::before{
     content: "";
@@ -390,7 +390,7 @@ section .title::after{
     outline: none;
     padding: 0 15px;
     font-size: 17px;
-    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", "Lucida Grande", sans-serif;
 }
 .contact .right form .button{
     height: 47px;
