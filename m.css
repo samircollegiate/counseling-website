@@ -59,7 +59,7 @@ html{
     transition: color 0.3s ease;
 }
 .navbar .menu li a:hover{
-    color: firebrick;
+    color: #6F2232;
 
 }
 /* home section styling */
@@ -95,13 +95,13 @@ html{
 }
 .home .home-content a{
    display: inline-block;
-   background: firebrick;
+   background: #6F2232;
    font-size: 25px;
    color: black;
    padding: 12px 36px;
    margin-top: 20px;
    border-radius: 6px;
-   border: 2px solid firebrick;
+   border: 2px solid #6F2232;
    transition: all 0.3s ease;
 }
 .home .home-content a:hover{
@@ -150,7 +150,7 @@ section .title::after{
     bottom: -12px;
     left: 50%;
     font-size: 20px;
-    color: firebrick;
+    color: #6F2232;
     padding: 5px;
     background: #fff;
     transform: translateX(-50%);
@@ -179,25 +179,25 @@ section .title::after{
     margin-bottom: 10px;
 }
 .about .about-content .right .text span{
-    color: firebrick;
+    color: #6F2232;
 }
 .about .about-content .right p{
     text-align: justify;
 }
 .about .about-content .right a{
     display: inline-block;
-    background: firebrick;
+    background: #6F2232;
     font-size: 20px;
     font-weight: 500;
     color: white;
     padding: 10px 30px;
     margin-top: 20px;
     border-radius: 6px;
-    border: 2px solid firebrick;
+    border: 2px solid #6F2232;
     transition: all 0.3s ease;
 }
 .about .about-content .right a:hover{
-    color: firebrick;
+    color: #6F2232;
     background: none;
 
 }
@@ -229,14 +229,14 @@ section .title::after{
     transform: scale(1.05);
 }
 .projects .project-content .card:hover{
-    background: firebrick;
+    background: #6F2232;
 }
 .projects .project-content .card:hover i{
     color: #fff;
 }
 .projects .project-content .card i{
     font-size: 50px;
-    color: firebrick;
+    color: #6F2232;
     transition: color 0.3s ease;
 }
 .projects .project-content .card .text{
@@ -303,7 +303,7 @@ section .title::after{
     position: fixed;
     height: 45px;
     width: 42px;
-    background: firebrick;
+    background: #6F2232;
     right: 30px;
     bottom: 10px;
     text-align: center;
@@ -351,7 +351,7 @@ section .title::after{
 }
 .contact .contact-content .row i{
     font-size: 25px;
-    color: firebrick;
+    color: #6F2232;
 }
 .contact .contact-content .info .head{
     font-weight: 500;
@@ -396,8 +396,8 @@ section .title::after{
 .contact .right form .button button{
     width: 100%;
     height: 100%;
-    border: 2px solid firebrick;
-    background: firebrick;
+    border: 2px solid #6F2232;
+    background: #6F2232;
     color: #fff;
     font-size: 20px;
     font-weight: 500;
@@ -406,7 +406,7 @@ section .title::after{
     transition: all 0.3s ease;
 }
 .contact .right form .button button:hover{
-    color: firebrick;
+    color: #6F2232;
     background: none;
 }
 .contact .right form .textarea textarea{
@@ -425,7 +425,7 @@ footer{
     color: #fff;
 }
 footer span a{
-    color: firebrick;
+    color: #6F2232;
     text-decoration: none;
 }
 footer span a:hover{
