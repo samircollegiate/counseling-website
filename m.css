@@ -35,12 +35,12 @@ html{
 }
 .navbar .logo a{
      font-size: 35px;
-     color: black;
+     color: white;
      font-weight: 600;
 
 }
 .navbar .logo a span{
-    color: white;
+    color: black;
 }
 .navbar.sticky .logo a span{
     color: white;
@@ -52,7 +52,7 @@ html{
 }
 .navbar .menu li a{
     display: block;
-    color: white;
+    color: black;
     font-size: 18px;
     font-weight: 500;
     margin-left: 25px;
