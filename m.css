@@ -35,15 +35,15 @@ html{
 }
 .navbar .logo a{
      font-size: 35px;
-     color: black;
+     color: white;
      font-weight: 600;
 
 }
 .navbar .logo a span{
-    color: black;
+    color: white;
 }
 .navbar.sticky .logo a span{
-    color: black;
+    color: white;
     transition: all 0.3s ease;
 }
 .navbar .menu li{
@@ -52,14 +52,14 @@ html{
 }
 .navbar .menu li a{
     display: block;
-    color: black;
+    color: white;
     font-size: 18px;
     font-weight: 500;
     margin-left: 25px;
     transition: color 0.3s ease;
 }
 .navbar .menu li a:hover{
-    color: green;
+    color: firebrick;
 
 }
 /* home section styling */
